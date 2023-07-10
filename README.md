@@ -34,6 +34,8 @@ Python: api req, parsing and translation, sms, twilio
 JavaScript/TypeScript: handling landing page, settings page, userbase
 MongoDB: handling userbase
 
+## Notes
+if you were a fan of my anti-procrastinator project, that was just combined in this
 
 ## How to Use ☀️
 
