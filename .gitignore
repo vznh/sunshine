@@ -1,0 +1,4 @@
+# Hiding development environment variables
+.env
+# Hiding some random shit on Mac
+.DS_Store
