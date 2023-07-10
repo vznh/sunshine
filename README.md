@@ -15,19 +15,19 @@ sunshine provides:
 
 ### 2. news headlines 📰
 
-Stay informed about what's happening around the U.S. with just a text message! sunshine gives you the top headlines for the day.
+stay informed about what's happening around the U.S. with just a text message! sunshine gives you the top headlines for the day.
 
 ### 3. canvas assignments 📚
 
-Stay on top of your school work. sunshine pulls your assignments from Canvas and tells you how many hours you have until they're due. With this sense of urgency, you'll be compelled to start your assignments!
+stay on top of your school work. sunshine pulls your assignments from Canvas and tells you how many hours you have until they're due. with this sense of urgency, you'll be compelled to start your assignments!
 
 ## why?
 
-I was too lazy to read everything. I didn't even know affirmative action got rolled back until my girlfriend told me. Plus, sometimes I would dress for hot weather but it's cold as f**k outside. That's my fault, but maybe some people are like me too. Also, because I have many classes, I don't really know what's due or not. So, I made sunshine.
+I was too lazy to read everything. I didn't even know affirmative action got rolled back until my girlfriend told me. plus, sometimes I would dress for hot weather but it's cold as f**k outside. that's my fault, but maybe some people are like me too. also, because I have many classes, I don't really know what's due or not. so, I made sunshine.
 
 ## how?
 
-The back-end was made using purely Python. JS/TS controls the settings page, and JS/TS sends information back to my MongoDB database. 
+the back-end was made using purely Python. JS/TS controls the settings page, and JS/TS sends information back to my MongoDB database. 
 
 #### detailed:
 Python: api req, parsing and translation, sms, twilio
