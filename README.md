@@ -27,6 +27,7 @@ I was too lazy to read everything. I didn't even know affirmative action got rol
 
 ## how?
 
+we addressed the lack of information problem by compressing everything you need to know in a day (which are all togglable!) into one text message at any time in the morning.
 the back-end was made using purely Python. JS/TS controls the settings page, and JS/TS sends information back to my MongoDB database. 
 
 #### detailed:
